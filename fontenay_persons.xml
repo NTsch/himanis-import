@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="">
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="">
+        <body>
+            <listPerson>
+                <person xml:id="d1e1612">
+                    <persName>
+                        <name>Pierre, archiprêtre de Lucenay</name>
+                        <name>LAT:Petrus archipresbiter Lucennaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324631&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e35">
+                    <persName>
+                        <name>Hugues II, duc de Bourgogne (1103-1143)</name>
+                        <name>Hugo II dux Burgundiae</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Hugues_II_de_Bourgogne</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324644&amp;db=stutzmann_himanis</bibl>
+                    <note>Hugues II, dit le Pacifique, né vers 1085 et mort peu après le 6 février
+                        1143ML 1, est duc de Bourgogne de 1103 à 1143.</note>
+                </person>
+                <person xml:id="d1e633">
+                    <persName>
+                        <name>Milon de Til-[Châtel], moine de Fontenay</name>
+                        <name>LAT:Milo de Tilio, monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324658&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1300">
+                    <persName>
+                        <name>Gautier II, évêque d'Autun (1189 -1223)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324610&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x69">
+                    <persName>
+                        <name>Jean V Frouard de Courcelles, abbé de Fontenay (1460-1462)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324569&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e170">
+                    <persName>
+                        <name>Hugues IV, duc de Bourgogne (1218-1272)</name>
+                        <name>Hugo IV dux Burgundiae</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Hugues_IV_de_Bourgogne</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324635&amp;db=stutzmann_himanis</bibl>
+                    <note>WIKIPEDIA: Hugues IV de Bourgogne, né le 9 mars 1213, mort à
+                        Villaines-en-Duesmois le 27 octobre ou 30 octobre 1272, duc de Bourgogne de
+                        1218 à 1272, roi titulaire de Thessalonique (1266-1272), est le fils du duc
+                        de Bourgogne Eudes III et d'Alix de Vergy.</note>
+                </person>
+                <person xml:id="d1e83">
+                    <persName>
+                        <name>Eudes II, duc de Bourgogne (1143-1162)</name>
+                        <name>Odo II dux Burgundiae</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Eudes_II_de_Bourgogne</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324670&amp;db=stutzmann_himanis</bibl>
+                    <note>Eudes II, né en 1118, mort le 27 juin 1162, duc de Bourgogne de 1143 à
+                        1162, fils de Hugues II le Pacifique, duc de Bourgogne, et de Mathilde de
+                        Turenne.</note>
+                </person>
+                <person xml:id="d1e143">
+                    <persName>
+                        <name>Eudes III, duc de Bourgogne (1192-1218)</name>
+                        <name>Odo III dux Burgundiae</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324624&amp;db=stutzmann_himanis</bibl>
+                    <note>Wikipedia indique qu'il ne porte le titre qu'en 1192. L'acte de Fontenay
+                        avec persName xml:id="d1e78766" explicitement daté de 1191 est une
+                        reproduction de l'acte de 1191 donné par Eudes comme "filius ducis" en
+                        1191</note>
+                </person>
+                <person xml:id="d1e121">
+                    <persName>
+                        <name>Hugues III, duc de Bourgogne (1162-1192)</name>
+                        <name>Hugo III dux Burgundiae</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Hugues_III_de_Bourgogne</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324577&amp;db=stutzmann_himanis</bibl>
+                    <note>Hugues III, né en 1148, mort à Acre en août 1192, duc de Bourgogne de 1162
+                        à 1192, comte d'Albon en 1183, fils de Eudes II de Bourgogne et de Marie de
+                        Blois-Champagne.</note>
+                </person>
+                <person xml:id="x8">
+                    <persName>
+                        <name>Anastasius IV papa (1153-1154)</name>
+                        <name>Corrado Demetri della Suburra</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324687&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1100">
+                    <persName>
+                        <name>Thibaud, chantre de Flavigny (1142)</name>
+                        <name>Theobaldus cantor Flaviniacensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324696&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1090">
+                    <persName>
+                        <name>Hugues, sous-prieur de Flavigny (1175)</name>
+                        <name>Hugo subprior Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324685&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e921">
+                    <persName>
+                        <name>Ainon, abbé de Flavigny (av. 1142-1149)</name>
+                        <name>Agano abbas Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324676&amp;db=stutzmann_himanis</bibl>
+                    <note>Ainon, avant 1142-1149. DHGE, t. XVII, 17, col. 405</note>
+                </person>
+                <person xml:id="d1e960">
+                    <persName>
+                        <name>Gaucher, abbé de Flavigny (1173-1185)</name>
+                        <name>Galcherius abbas Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324677&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e983">
+                    <persName>
+                        <name>Gui, prieur de Flavigny (ca. 1180)</name>
+                        <name>Guido prior Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324678&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1080">
+                    <persName>
+                        <name>Gerard, doyen de Flavigny</name>
+                        <name>Girardus decanus Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324674&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e915">
+                    <persName>
+                        <name>Renaud, abbé de Flavigny (1152-1160)</name>
+                        <name>Rainaldus abbas Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324675&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e832">
+                    <persName>
+                        <name>Étienne de Toucy, abbé de Reigny (1128-1162)</name>
+                        <name>Stephanus abbas Reigniacensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324671&amp;db=stutzmann_himanis</bibl>
+                    <note>Stephanus Regniaci abbas</note>
+                    <note>StephanusRegniaciabbas</note>
+                    <note>Stephani Regniacensis abbatis</note>
+                </person>
+                <person xml:id="d1e862">
+                    <persName>
+                        <name>Obert, prieur de Saint-Symphorien (av.1139-av.1151)</name>
+                        <name>Obertusprior Sancti Symphoriani</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324672&amp;db=stutzmann_himanis</bibl>
+                    <note>Obert, prieur de Saint-Symphorien, est attesté aux dates suivantes : 25
+                        mai 1139 t. I, p. 342-344, n° 204 ; juin 1139 6 vol., p. 416-418, n° 4067 ;
+                        1142 (ADCO 15 H 257 / 7 : 1142) ; 1er septembre 1142 (Cartulaire 1, fol. 74v
+                        = Puteolum, 6) ; 1147 (Cartulaire 1, fol. 40v-41r = Flaciacum, 5) ; sans
+                        date, mais pour la période 1139-1148 (Cartulaire 2, fol. 90v-91r = Morvilla,
+                        3). En 1151, il est déjà remplacé par un Jean, cf. U. CHEVALIER,
+                        Chartularium prioratus Beatae Mariae de Paredo Monachorum, Montbéliard,
+                        1891, p. 101- 102, n° 202. Cet abbé n’apparaît pas dans les actes édités par
+                        André Déléage, mais lui est connu, cf. A. DÉLÉAGE, Recueil des actes du
+                        prieuré de Saint-Symphorien d’Autun de 696 à 1300, Autun, 1936, p. XIV-XV,
+                        qui ajoute une référence à un acte non daté, ADCO G 964, n° 1
+                        [1112-1140]</note>
+                </person>
+                <person xml:id="d1e902">
+                    <persName>
+                        <name>Aimon, abbé de Flavigny (1199)</name>
+                        <name>Haimo abbas Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324673&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e567">
+                    <persName>
+                        <name>Robert de Bourgogne, évêque d'Autun (1140)</name>
+                        <name>Robertus episcopus Eduensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324655&amp;db=stutzmann_himanis</bibl>
+                    <note>Robert de Bourgogne, fils du duc de Bourgogne, évêque en 1140</note>
+                </person>
+                <person xml:id="d1e1058">
+                    <persName>
+                        <name>Gislerus, sous-prieur de Flavigny (ca. 1142)</name>
+                        <name>Gislerus subprior Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324652&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e478">
+                    <persName>
+                        <name>Aimon, archidiacre de Flavigny</name>
+                        <name>Haimo archidiaconus Flaviniacensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324653&amp;db=stutzmann_himanis</bibl>
+                    <note>Haymo archidiaconus Flaviniacensis</note>
+                    <note>Aymo, archidiaconus Flaviniacensis</note>
+                    <note>Haymone archidiacono Flaviniaci</note>
+                    <note>Haymo Dei pacientia archidiaconus Flaviniaci</note>
+                    <note>Haymo, archidiaconus Flaviacensis</note>
+                </person>
+                <person xml:id="d1e437">
+                    <persName>
+                        <name>Armannus, archidiacre dans le diocèse d'Autun</name>
+                        <name>Armannus Eduensis archidiaconus</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324649&amp;db=stutzmann_himanis</bibl>
+                    <note>Armannus Eduensis archidiaconus</note>
+                    <note>ArmannusEduensisarchidiaconus</note>
+                </person>
+                <person xml:id="d1e450">
+                    <persName>
+                        <name>Geoffroy, archidiacre dans le diocèse d'Autun</name>
+                        <name>Gaufridusarchidiaconus in dioecesi Eduensi</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324650&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e464">
+                    <persName>
+                        <name>Seguin, archidiacre dans le diocèse d'Autun</name>
+                        <name>Seguinus archidiaconus in dioecesi Eduensi</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324651&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e396">
+                    <persName>
+                        <name>Garnier II de Rochefort, abbé d'Auberive, abbé de Clairvaux
+                            (1186-1193), évêque de Langres (1193-1199)</name>
+                        <name>Garnerius episcopus Lingonensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324647&amp;db=stutzmann_himanis</bibl>
+                    <note>1193-1199 : Garnier II de Rochefort, ancien abbé d'Auberive et de
+                        Clairvaux.</note>
+                </person>
+                <person xml:id="d1e416">
+                    <persName>
+                        <name>Robert II de Châtillon, évêque de Langres (1203-1209)</name>
+                        <name>Robertus episcopus Lingonensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324648&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e352">
+                    <persName>
+                        <name>Étienne II, évêque d'Autun (1171-1189)</name>
+                        <name>Stephanus II episcopus Eduensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324645&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e376">
+                    <persName>
+                        <name>Guillenc d'Aigremont, évêque de Langres (1125-1136)</name>
+                        <name>Guilencus episcopus Lingonensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324646&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1045">
+                    <persName>
+                        <name>Lambert, chapelain de l'abbé de Flavigny (1142)</name>
+                        <name>Lambertus capellanus abbatis Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324641&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e306">
+                    <persName>
+                        <name>Étienne Ier de Baugé, évêque d'Autun (1112 -1139)</name>
+                        <name>Stephanus I episcopus Eduensis</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/%C3%89tienne_Ier_de_Baug%C3%A9</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324643&amp;db=stutzmann_himanis</bibl>
+                    <note>Etienne I de Baugé ou Bâgé, évêque d'Autun (1112-1139). Gams, p. 500,
+                        donne 1139 comme date de décès. Il se retire en 1136 ou plutôt 1139 à Cluny
+                        : pour 1136, voir DHGE, t. V, 1931, col. 908 et t. XV, 1963, col. 1209.
+                        C’est la date de 1139 qui est retenue par J.Régnier p. 76-79 et reprise
+                        ensuite (cf. notice d’Humbert de Bâgé, DHGE, t. XXV, 1995, col. 347).
+                        Indépendamment, G. Constable vient aux mêmes conclusions p. 139 note 99 . La
+                        discussion sur le lieu de sépulture d’Etienne de Bâgé, peut-être à Fontenay,
+                        est complétée par P. Bourgeois, cf. BOURGEOIS, Abbaye Notre-Dame de
+                        Fontenay, t. I, p. 188-189.</note>
+                </person>
+                <person xml:id="d1e1022">
+                    <persName>
+                        <name>Gui de Grignon, sacristain de Flavigny (ca. 1142)</name>
+                        <name>Guido de Grinione, sacrista Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324630&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1371">
+                    <persName>
+                        <name>Jordan, archiprêtre de Touillon (v.1155-v.1170)</name>
+                        <name>Jordanus archipresbiter Tullionis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324622&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1394">
+                    <persName>
+                        <name>Eudes, archiprêtre de Touillon (1173-1200)</name>
+                        <name>Odo archipresbiter Tullionis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324623&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1278">
+                    <persName>
+                        <name>Manassès de Bar-sur-Seine, évêque de Langres (1179-1193)</name>
+                        <name>Manasses episcopus Lingonensis</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Manass%C3%A8s_de_Bar-sur-Seine</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324599&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1012">
+                    <persName>
+                        <name>Eudes, prieur de Flavigny (1142)</name>
+                        <name>Odo prior Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324619&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1360">
+                    <persName>
+                        <name>Boson, doyen de chrétienté de Montbard</name>
+                        <name>Boso decanus Montis Barri</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324621&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1234">
+                    <persName>
+                        <name>Henri de Bourgogne, évêque d'Autun (1148 -1171)</name>
+                        <name>Henricus filius Odonis ducis Burgundiae, archidiaconus postea
+                            episcopus Eduensis</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Hugues_II_de_Bourgogne</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324588&amp;db=stutzmann_himanis</bibl>
+                    <note>Henri (? - † 1er mars 1170), seigneur de Flavigny, doyen de l’Église
+                        d'Autun en 1143, élu évêque d'Autun en 1148. Le 28 juin 1156 il fonde
+                        l'anniversaire de son frère Raymond avec une donation à l'abbaye de
+                        Grosbois. Il est enterré à l'abbaye de Cîteaux.</note>
+                </person>
+                <person xml:id="d1e1199">
+                    <persName>
+                        <name>Gauthier de Bourgogne, évêque de Langres (1163-1179)</name>
+                        <name>Galterus filius Hugonis II ducis Burgundiae, archiepiscopus Bisuntiae,
+                            episcopus Lingonensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324566&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1114">
+                    <persName>
+                        <name>Narduinus, moine de Flavigny</name>
+                        <name>Narduinus monachus Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324522&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1156">
+                    <persName>
+                        <name>Geoffroi, moine de Clairvaux (1142)</name>
+                        <name>Gaufridus monachus Clarae Vallis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324544&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1003">
+                    <persName>
+                        <name>Gautier, prieur de Flavigny (ca. 1142)</name>
+                        <name>Galterius prior Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324521&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1172">
+                    <persName>
+                        <name>Geoffroy de La Roche-Vanneau, abbé de Fontenay (1119-1126), évêque de
+                            Langres (1138-1163)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324555&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x36">
+                    <persName>
+                        <name>Hugues III de Montréal, évêque de Langres (1219-1232)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324532&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x50">
+                    <persName>
+                        <name>Bernard II, abbé de Fontenay (1202-1206)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324548&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x65">
+                    <persName>
+                        <name>Jean III de Laignes, abbé de Fontenay (1417-1433)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324564&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x94">
+                    <persName>
+                        <name>Beuve, abbé de Trois-Fontaines, abbé de Clairvaux (1273-1280)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324596&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x108">
+                    <persName>
+                        <name>Mathieu II Pillaert, abbé de Beaupré, Mortemer, abbé de Clairvaux
+                            (1405-1428)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324612&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x51">
+                    <persName>
+                        <name>Pierre Ier, abbé de Fontenay (1206-1210)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324549&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x66">
+                    <persName>
+                        <name>Guillaume VI, abbé de Fontenay (1433-1438)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324565&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x80">
+                    <persName>
+                        <name>Henri de Marcy, abbé de Clairvaux (1176-1179), cardinal-évêque
+                            d'Albano</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324581&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x95">
+                    <persName>
+                        <name>Thibaud de Sancey, abbé de Maison-Dieu, abbé de Clairvaux (1280-1284),
+                            abbé de Cîteaux</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324597&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x109">
+                    <persName>
+                        <name>Guillaume d'Autun, abbé de Mortemer, abbé de Clairvaux
+                            (1428-1448)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324613&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x37">
+                    <persName>
+                        <name>Guy Ier de Vergy, évêque d'Autun (1224 - 1245 )</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324534&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x52">
+                    <persName>
+                        <name>Guillaume III, abbé de Fontenay (1210-1219)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324550&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x81">
+                    <persName>
+                        <name>Pierre Ier dit le Borgne, abbé d'Igny, abbé de Clairvaux
+                            (1179-1186)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324582&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x110">
+                    <persName>
+                        <name>Philippe de Fontaines, abbé de Maisières, abbé de Clairvaux
+                            (1449-1471)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324614&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x38">
+                    <persName>
+                        <name>Humbaud, évêque d'Auxerre (1087-1114)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324535&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x53">
+                    <persName>
+                        <name>Aymon, abbé de Fontenay (1219-1234)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324551&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x67">
+                    <persName>
+                        <name>Jean IV de Fontanet, abbé de Fontenay (1438-1440)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324567&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x82">
+                    <persName>
+                        <name>Guy de France, abbé d'Ourscamp, abbé de Clairvaux (1193-1196)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324583&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x111">
+                    <persName>
+                        <name>Pierre de Virey, abbé de Cherlieu, abbé de Clairvaux
+                            (1471-1496)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324615&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x39">
+                    <persName>
+                        <name>Hugues II de Montaigu, évêque d'Auxerre (1115-1136)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324536&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x54">
+                    <persName>
+                        <name>Martin, abbé de Fontenay (1234-1252)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324552&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x68">
+                    <persName>
+                        <name>Simon Evrard, abbé de Fontenay (1440-1460)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324568&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x83">
+                    <persName>
+                        <name>Conrad d'Urach, abbé de Villers, abbé de Clairvaux (1214-1216), de
+                            Cîteaux (1217-1219), cardinal-évêque de Porto et Santa Ruffino</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324584&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x97">
+                    <persName>
+                        <name>Jean II de La Prée, abbé de Maison-Dieu, abbé de Clairvaux
+                            (1286-1291)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324600&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x112">
+                    <persName>
+                        <name>Jean de Foucault, abbé de Fontenay, abbé de Clairvaux
+                            (1496-1509)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324616&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x40">
+                    <persName>
+                        <name>Alain de Larrivour, évêque d'Auxerre (1152-1167)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324537&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x55">
+                    <persName>
+                        <name>Guillaume IV, abbé de Fontenay (1252-1269)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324553&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x84">
+                    <persName>
+                        <name>Guillaume, abbé de Montiers-en-Argonne, abbé de Clairvaux
+                            (1217-1221)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324585&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x98">
+                    <persName>
+                        <name>Jean III de Sancey, abbé de Clairvaux (1291-1312)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324601&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x113">
+                    <persName>
+                        <name>Edmond de Saulieu ou Gaucher, abbé de Clairvaux (1509-1552)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324617&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x41">
+                    <persName>
+                        <name>Guillaume I de Toucy, évêque d'Auxerre (1167-1181)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324538&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x56">
+                    <persName>
+                        <name>Raoul II, abbé de Fontenay (1269-1274)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324554&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x70">
+                    <persName>
+                        <name>Jean VI de Baigneux, abbé de Fontenay (1462-1466)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324570&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x85">
+                    <persName>
+                        <name>Robert II, abbé de Maison-Dieu, abbé de Clairvaux (1221-1223)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324586&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x99">
+                    <persName>
+                        <name>Guillaume, abbé de Balerne et de Cherlieu, abbé de Clairvaux
+                            (1312)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324602&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x42">
+                    <persName>
+                        <name>Garmond Clément, évêque d'Auxerre (1182)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324539&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x71">
+                    <persName>
+                        <name>Jean V Frouard de Courcelles (2), abbé de Fontenay (1466-1492)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324571&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x86">
+                    <persName>
+                        <name>Laurent, abbé d'Ursariae, abbé de Clairvaux (1223-1224)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324587&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x100">
+                    <persName>
+                        <name>Conrad II de Metz, abbé de Hautecombe, abbé de Clairvaux
+                            (1313-1316)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324603&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x43">
+                    <persName>
+                        <name>Raoul Ier, abbé de Fontenay (1163-1165)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324540&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x57">
+                    <persName>
+                        <name>Eudes, abbé de Fontenay (1274-1295)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324556&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x72">
+                    <persName>
+                        <name>Jean VII Foucard, abbé de Fontenay (1492-1497)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324572&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x101">
+                    <persName>
+                        <name>Mathieu d'Aumelle, abbé de Clairvaux (1316-1330)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324604&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x44">
+                    <persName>
+                        <name>Hugues, abbé de Fontenay (1165-1167)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324541&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x58">
+                    <persName>
+                        <name>Renaud, abbé de Fontenay (1295-1305)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324557&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x73">
+                    <persName>
+                        <name>Marc d’Illyes, abbé de Fontenay (1497-1498)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324573&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x87">
+                    <persName>
+                        <name>Raoul de la Roche-Aymon, abbé d'Igny, abbé de Clairvaux (1224-1232), ,
+                            évêque d'Agen (1233-1235), archevêque de Lyon</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324589&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x102">
+                    <persName>
+                        <name>Jean IV d'Aizanville, abbé de Clairvaux (1330-1345)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324605&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x45">
+                    <persName>
+                        <name>Guillaume II de Montbard, abbé de Fontenay (1167-1170)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324542&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x59">
+                    <persName>
+                        <name>Pierre II, abbé de Fontenay (1305-1328)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324558&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x74">
+                    <persName>
+                        <name>Philibert Foucaud, abbé de Fontenay (1498-1519)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324574&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x88">
+                    <persName>
+                        <name>Dreux de Grandmont, abbé d'Ourscamp, abbé de Clairvaux
+                            (1233-1235)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324590&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x103">
+                    <persName>
+                        <name>Bernard de Laon, abbé de Clairvaux (1345-1358)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324606&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x46">
+                    <persName>
+                        <name>Bernard Ier, abbé de Fontenay (1170-1186)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324543&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x60">
+                    <persName>
+                        <name>Guillaume V de Montbard, abbé de Fontenay (1328-1340)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324559&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x75">
+                    <persName>
+                        <name>Robert I de Bruges, abbé de Clairvaux (1153-1157)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324575&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x89">
+                    <persName>
+                        <name>Evrard, abbé de Larrivour, abbé de Clairvaux (1235-1238)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324591&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x104">
+                    <persName>
+                        <name>Jean V de Bussières, abbé de Clairvaux (1358-1359), abbé de Cîteaux,
+                            cardinal</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324607&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x61">
+                    <persName>
+                        <name>Jean II, abbé de Fontenay (1340-1350)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324560&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x76">
+                    <persName>
+                        <name>Fastré de Cambron, abbé de Clairvaux (1157-1161)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324576&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x90">
+                    <persName>
+                        <name>Guillaume II de Dongelberg, abbé de Villiers, abbé de Clairvaux
+                            (1238-1239)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324592&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x105">
+                    <persName>
+                        <name>Jean VI de Deulemont, abbé de Clairvaux (1363-1380)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324608&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x33">
+                    <persName>
+                        <name>Robert I de Bourgogne, évêque de Langres (1085-1110)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324529&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x47">
+                    <persName>
+                        <name>Justin, abbé de Fontenay (1186-1194)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324545&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x62">
+                    <persName>
+                        <name>Evrard, abbé de Fontenay (1350-1361)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324561&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x91">
+                    <persName>
+                        <name>Étienne de Lexington, abbé de Savigny, abbé de Clairvaux
+                            (1242-1255)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324593&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x106">
+                    <persName>
+                        <name>Etienne de Foissy, abbé de Preuilly, abbé de Clairvaux
+                            (1380-1402)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324609&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x34">
+                    <persName>
+                        <name>Joceran de Brancion, évêque de Langres (1113-1125)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324530&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x48">
+                    <persName>
+                        <name>Jean Ier, abbé de Fontenay (1194-1196)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324546&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x63">
+                    <persName>
+                        <name>Roger, abbé de Fontenay (1361-1378)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324562&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x77">
+                    <persName>
+                        <name>Geoffroy d'Auxerre, abbé de Clairvaux (1162-1165)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324578&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x92">
+                    <persName>
+                        <name>Jean, abbé d'Igny, de Clairvaux (1257-1260), de la Grâce-Dieu,
+                            archevêque de Mitylène</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324594&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x35">
+                    <persName>
+                        <name>Guillaume Ier de Sabran, évêque de Langres (1136-1138)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324531&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x49">
+                    <persName>
+                        <name>Hubert, abbé de Fontenay (1196-1202)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324547&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x64">
+                    <persName>
+                        <name>Nicolas, abbé de Fontenay (1378-1417)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324563&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x78">
+                    <persName>
+                        <name>Pons de Polignac, abbé de Granselve, abbé de Clairvaux (1165-1170),
+                            évêque de Clermont</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324579&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x93">
+                    <persName>
+                        <name>Philippe, abbé de Foucarmond, abbé de Clairvaux (1262-1273)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324595&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x107">
+                    <persName>
+                        <name>Jean VII de Martigny, abbé de Morimond, de Clairaux (1402-1405), de
+                            Cîteaux</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324611&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x79">
+                    <persName>
+                        <name>Gérard I, abbé de Clairvaux (1170-1175)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324580&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x96">
+                    <persName>
+                        <name>Gérard II, abbé d'Igny, abbé de Clairvaux (1284-1285)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324598&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x23">
+                    <persName>
+                        <name>Innocentius V papa (1276-1276)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324703&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x18">
+                    <persName>
+                        <name>Innocentius IV papa (1243-1254)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324698&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e252">
+                    <persName>
+                        <name>Innocentius III papa (1198-1216)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324639&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e236">
+                    <persName>
+                        <name>Innocentius II papa (1130-1143)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324638&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x13">
+                    <persName>
+                        <name>Clemens III papa (1187-1191)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324692&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x14">
+                    <persName>
+                        <name>Celestinus III papa (1191-1198)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324693&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x15">
+                    <persName>
+                        <name>Honorius III papa (1216-1227)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324694&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x1">
+                    <persName>
+                        <name>Urbanus II papa (1088-1099)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324679&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x16">
+                    <persName>
+                        <name>Gregorius IX papa (1227-1241)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324695&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x2">
+                    <persName>
+                        <name>Paschalis II papa (1099-1118)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324680&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x3">
+                    <persName>
+                        <name>Gelasius II papa (1118-1119)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324681&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x17">
+                    <persName>
+                        <name>Celestinus IV papa (1241-1241)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324697&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x4">
+                    <persName>
+                        <name>Calixtus II papa (1119-1124)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324682&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x27">
+                    <persName>
+                        <name>Martinus IV papa (1281-1285)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324523&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x5">
+                    <persName>
+                        <name>Honorius II papa (1124-1130)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324683&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x19">
+                    <persName>
+                        <name>Alexander IV papa (1254-1261)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324699&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x28">
+                    <persName>
+                        <name>Honorius IV papa (1285-1287)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324524&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e192">
+                    <persName>
+                        <name>Lucius II papa (1144-1145)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324636&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x6">
+                    <persName>
+                        <name>Celestinus II papa (1143-1144)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324684&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x20">
+                    <persName>
+                        <name>Urbanus IV papa (1261-1264)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324700&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x29">
+                    <persName>
+                        <name>Nicolaus IV papa (1288-1292)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324525&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e209">
+                    <persName>
+                        <name>Lucius III papa (1181-1185)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324637&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x21">
+                    <persName>
+                        <name>Clemens IV papa (1265-1268)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324701&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x30">
+                    <persName>
+                        <name>Celestinus V papa (1294-1294)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324526&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x7">
+                    <persName>
+                        <name>Eugenius III papa (1145-1153)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324686&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x22">
+                    <persName>
+                        <name>Gregorius X papa (1272-1276)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324702&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x31">
+                    <persName>
+                        <name>Bonifacius VIII papa (1295-1303)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324527&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x32">
+                    <persName>
+                        <name>Benedictus XI papa (1303-1304)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324528&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x9">
+                    <persName>
+                        <name>Adrianus IV papa (1154-1159)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324688&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x24">
+                    <persName>
+                        <name>Adrianus V papa (1276-1276)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324704&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x10">
+                    <persName>
+                        <name>Alexander III papa (1159-1181)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324689&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x25">
+                    <persName>
+                        <name>Johannes XXI papa (1276-1277)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324705&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x11">
+                    <persName>
+                        <name>Urbanus III papa (1185-1187)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324690&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x26">
+                    <persName>
+                        <name>Nicolaus III papa (1277-1280)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324706&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="x12">
+                    <persName>
+                        <name>Gregorius VIII papa (1187-1187)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324691&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1581">
+                    <persName>
+                        <name>Tecelinus archipresbiter Frollesii</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324628&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e690">
+                    <persName>
+                        <name>Arnaud, abbé de Fontenay (1154-1163)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324660&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1124">
+                    <persName>
+                        <name>Bernard I de Clairvaux, abbé de Clairvaux (1115-1153)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324533&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1596">
+                    <persName>
+                        <name>Galterius archipresbiter Eduensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324629&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e741">
+                    <persName>
+                        <name>Ribertus prior Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324661&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e761">
+                    <persName>
+                        <name>Willelmus monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324662&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1070">
+                    <persName>
+                        <name>Galfridus cellerarius Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324663&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1627">
+                    <persName>
+                        <name>Haimo archipresbiter Flaviniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324632&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1640">
+                    <persName>
+                        <name>Ernoldus decanus Sedeloci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324633&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1320">
+                    <persName>
+                        <name>Hilduin de Vendeuvre, évêque de Langres (1200-1203)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324618&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1650">
+                    <persName>
+                        <name>Petrus canonicus Lugdunensis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324634&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1340">
+                    <persName>
+                        <name>Guillaume II de Joinville, évêque de Langres (1210-1219), archevêque
+                            de Reims (1219-1226)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324620&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e501">
+                    <persName>
+                        <name>Humbert de Baugé, évêque d'Autun (1140 -1148)</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Humbert_de_Baug%C3%A9</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324654&amp;db=stutzmann_himanis</bibl>
+                    <note>Humbert, archidiacre puis évêque d'Autun de 1140 à 1148, succède à son
+                        oncle après l’éphémère épiscopat de Robert de Bourgogne (mort le 18 juillet
+                        1140), il reçoit le pallium dès le 21 janvier 1141 et devient, en 1148,
+                        archevêque de Lyon. J. Régnier préfère la date de 1147, car il dit que son
+                        successeur Henri reçut le pallium dès la mi-septembre 1147 avant d’assister
+                        à la dédicace de l’église de Fontenay p. 83. Néanmoins l’inscription de
+                        dédicace de Fontenay mentionne explicitement Humbert comme évêque d’Autun.
+                        Si l’on accepte le témoignage épigraphique, ce que fait manifestement J.
+                        Régnier pour la date de la dédicace, il faut renoncer à l’idée qu’Eugène
+                        III, « pendant qu’il présidait le chapitre général de Cîteaux, accorda le
+                        pallium à Henri, donc entre le 14 et le 16 septembre 1147 » p. 83.
+                        Bibliographie : Gams, p. 500;DHGE, t. XXV, 1995, col. 347; Régnier, 1988, p.
+                        79-82</note>
+                </person>
+                <person xml:id="d1e268">
+                    <persName>
+                        <name>Hugues de Noyers, évêque d'Auxerre (1183-1206)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324640&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e586">
+                    <persName>
+                        <name>Hugues III de Mâcon, évêque d'Auxerre (1137-1151)</name>
+                    </persName>
+                    <bibl>https://fr.wikipedia.org/wiki/Hugues_de_M%C3%A2con</bibl>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324656&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1535">
+                    <persName>
+                        <name>Hugo archipresbiter Pulleniaci</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324625&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e623">
+                    <persName>
+                        <name>Willelmus monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324657&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1553">
+                    <persName>
+                        <name>Robertus archipresbiter Tullionis</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324626&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e288">
+                    <persName>
+                        <name>Guillaume II de Seignelay, évêque d'Auxerre (1207-1220), évêque de
+                            Paris (1220-1223)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324642&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e1568">
+                    <persName>
+                        <name>Bernardus archipresbiter Stabularum</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324627&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e643">
+                    <persName>
+                        <name>Guillaume I d’Epiry, abbé de Fontenay (1126-1154)</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324659&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e771">
+                    <persName>
+                        <name>Andreas monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324664&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e781">
+                    <persName>
+                        <name>Ribertus monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324665&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e791">
+                    <persName>
+                        <name>Stephanus monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324666&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e801">
+                    <persName>
+                        <name>Philippus monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324667&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e811">
+                    <persName>
+                        <name>Willelmus monachus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324668&amp;db=stutzmann_himanis</bibl>
+                </person>
+                <person xml:id="d1e822">
+                    <persName>
+                        <name>Haimo conversus Fonteneti</name>
+                    </persName>
+                    <bibl>https://heurist.huma-num.fr/heurist/?recID=324669&amp;db=stutzmann_himanis</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
