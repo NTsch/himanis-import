@@ -21,4 +21,4 @@ return distinct-values($fontenay-persons/detail/@conceptID/data()):)
 return $fontenay-persons/detail[@conceptID="2-3"]:)
 
 let $charters := $db/record[type="Act"]
-return $charters//temporal
+return count($charters[not(detail[@conceptID='1624-1110']) and not(detail[@conceptID='1624-1111'])])
