@@ -20,5 +20,8 @@ return distinct-values($fontenay-persons/detail/@conceptID/data()):)
 (:let $fontenay-persons := $db/record[type[text() = "Person"]]
 return $fontenay-persons/detail[@conceptID="2-3"]:)
 
-let $charters := $db/record[type="Act"]
-return count($charters[not(detail[@conceptID='1624-1110']) and not(detail[@conceptID='1624-1111'])])
+(:let $charters := $db/record[type="Act"]
+return count($charters[not(detail[@conceptID='1624-1110']) and not(detail[@conceptID='1624-1111'])]):)
+
+let $images := $db/record[type='Image zone']
+return count($images[count(./descendant::url) > 1])

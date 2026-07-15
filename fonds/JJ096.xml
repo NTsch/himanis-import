@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+   <cei:teiHeader>
+      <cei:fileDesc>
+         <cei:titleStmt>
+            <cei:title>JJ096</cei:title>
+            <cei:p/>
+         </cei:titleStmt>
+         <cei:publicationStmt>
+            <cei:publisher/>
+            <cei:pubPlace/>
+         </cei:publicationStmt>
+      </cei:fileDesc>
+   </cei:teiHeader>
+   <cei:text>
+      <cei:group>
+         <cei:text type="charter">
+            <cei:body>
+               <cei:idno id="327570">327570</cei:idno>
+               <cei:chDesc>
+                  <cei:issued>
+                     <cei:dateRange from="13640201" to="13640229">1364-02-01 - 1364-02-29</cei:dateRange>
+                  </cei:issued>
+                  <cei:abstract>1364, février (n. st.). - Paris Mandement analogue au précédent adressé par Jean II aux syndics de Magalas. (exéc. : le sénéchal de Carcassonne) Per Consilium Parisius existens in Camera Compotorum. P. de Chastel. - Visa- f. 64v° n. 131 latin</cei:abstract>
+                  <cei:lang_MOM>lat</cei:lang_MOM>
+                  <cei:witnessOrig>
+                     <cei:archIdentifier>
+                        <cei:idno>Acte 191 (64v)</cei:idno>
+                        <cei:archFond>JJ096</cei:archFond>
+                        <cei:arch>Archives Nationales</cei:arch>
+                        <cei:settlement>Paris</cei:settlement>
+                        <cei:ref>https://heurist.huma-num.fr/heurist/?recID=327570&amp;db=stutzmann_himanis</cei:ref>
+                     </cei:archIdentifier>
+                     <cei:figure>
+                        <cei:graphic/>
+                     </cei:figure>
+                  </cei:witnessOrig>
+               </cei:chDesc>
+               <cei:tenor/>
+            </cei:body>
+         </cei:text>
+         <cei:text type="charter">
+            <cei:body>
+               <cei:idno id="327572">327572</cei:idno>
+               <cei:chDesc>
+                  <cei:issued>
+                     <cei:dateRange from="13640201" to="13640229">1364-02-01 - 1364-02-29</cei:dateRange>
+                  </cei:issued>
+                  <cei:abstract>1364, février (n. st.). - Paris Mandement donné par Jean II aux syndics de Bizy, dont la communauté a été très dépeuplée par les ravages de la guerre et des épidémies, d'avoir à fixer à nouveau lenombre de feux, : sur lequel serai. réglé le montant des aides et autres contributions, en imposant une taxe d'un florins d'or sur chacun des nouveaux foyers qui devra compter pour cinq anciens feux. (exéc. : le sénéchal de Carcassonne) Per Consilium existens in Camera Compotorum Parisius. - P. Ducastel fol. 64v° n. 190 latin</cei:abstract>
+                  <cei:lang_MOM>lat</cei:lang_MOM>
+                  <cei:witnessOrig>
+                     <cei:archIdentifier>
+                        <cei:idno>Acte 190 (64v)</cei:idno>
+                        <cei:archFond>JJ096</cei:archFond>
+                        <cei:arch>Archives Nationales</cei:arch>
+                        <cei:settlement>Paris</cei:settlement>
+                        <cei:ref>https://heurist.huma-num.fr/heurist/?recID=327572&amp;db=stutzmann_himanis</cei:ref>
+                     </cei:archIdentifier>
+                     <cei:figure>
+                        <cei:graphic/>
+                     </cei:figure>
+                  </cei:witnessOrig>
+               </cei:chDesc>
+               <cei:tenor/>
+            </cei:body>
+         </cei:text>
+         <cei:text type="charter">
+            <cei:body>
+               <cei:idno id="327573">327573</cei:idno>
+               <cei:chDesc>
+                  <cei:issued>
+                     <cei:dateRange from="13640201" to="13640229">1364-02-01 - 1364-02-29</cei:dateRange>
+                  </cei:issued>
+                  <cei:abstract>1364, février (n. st.). - Paris Lettres de rémission données par Jean II, à Jean Béraut de Mézières, justiciable du Chapitre de Paris, âgé de seize ans, qui jouant et se disputant avec Philippot Fouquet, le blessa mortellement. (exéc. : le prévôt de Paris) Par le Conseil estant à Paris ouquel vous estiés. - Seris f. 145v° n. 426 français</cei:abstract>
+                  <cei:lang_MOM>frm</cei:lang_MOM>
+                  <cei:witnessOrig>
+                     <cei:archIdentifier>
+                        <cei:idno>Acte 426 (145v)</cei:idno>
+                        <cei:archFond>JJ096</cei:archFond>
+                        <cei:arch>Archives Nationales</cei:arch>
+                        <cei:settlement>Paris</cei:settlement>
+                        <cei:ref>https://heurist.huma-num.fr/heurist/?recID=327573&amp;db=stutzmann_himanis</cei:ref>
+                     </cei:archIdentifier>
+                     <cei:figure>
+                        <cei:graphic/>
+                     </cei:figure>
+                  </cei:witnessOrig>
+               </cei:chDesc>
+               <cei:tenor/>
+            </cei:body>
+         </cei:text>
+      </cei:group>
+   </cei:text>
+</cei:cei>
